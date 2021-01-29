@@ -21,7 +21,7 @@ public class DataSeeder {
 		if (user == null) {
 			userRep.save(new User("akhila", "akhila", "akhila@gmail.com", "9866221205", "ADMIN",
 					"$2a$10$6UVHQoHhpoYZxBB.k9r.deSLTT0RD1Yk8GdggRywGw0Snr8syRDtG", true));
-			//password is 123456//
+			//password is 123456////
 		}
 
 	}
